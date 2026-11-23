@@ -1,0 +1,8 @@
+Risk ID,Risk description,Likelihood,Impact,Priority,Treatment
+R01,Compromise of privileged account,Medium,High,High,"MFA, least privilege, monitoring and quarterly review"
+R02,Exposure or misuse of citizen personal data,Medium,High,High,"Data minimisation, encryption, access restrictions and retention controls"
+R03,Exploitation of application vulnerability,Medium,High,High,"Secure SDLC, scanning, patching and authorised security testing"
+R04,Late detection or reporting of cyber incident,Medium,High,High,"Central logging, alerting, named contacts and tested response playbook"
+R05,Loss of service or data after outage,Medium,High,High,"Isolated backups, recovery objectives and restoration exercises"
+R06,Third-party compromise,Medium,Medium,Medium,"Supplier due diligence, contract controls and periodic reassessment"
+R07,Staff error or policy non-compliance,Medium,Medium,Medium,"Training, clear procedures and management oversight"

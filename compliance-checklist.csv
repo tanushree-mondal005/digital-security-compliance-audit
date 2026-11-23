@@ -1,0 +1,16 @@
+ID,Control area,Expected control / evidence,Illustrative status,Priority
+C01,Governance,"Named service owner, security owner, risk register and review minutes",Needs validation,High
+C02,Privacy,"Data inventory, privacy notice, purpose and retention schedule",Improvement required,High
+C03,Access control,"RBAC, least privilege, privileged MFA and access reviews",Partially implemented,High
+C04,Authentication,"Secure authentication, session expiry and account recovery controls",Needs validation,High
+C05,Data security,"Encryption in transit/at rest, key management and restricted document access",Partially implemented,High
+C06,Application security,"Secure SDLC, code review, dependency scanning and security testing",Improvement required,High
+C07,Vulnerability management,"Asset inventory, risk-based patching and remediation evidence",Partially implemented,High
+C08,Logging,"Centralised protected logs, time synchronisation and access monitoring",Needs validation,High
+C09,CERT-In readiness,"Incident contact, reporting workflow and applicable log-retention compliance",Needs validation,High
+C10,Incident response,"Approved playbook, escalation contacts and exercise records",Improvement required,High
+C11,Backup/recovery,"Protected backups, documented RPO/RTO and restore-test evidence",Partially implemented,Medium
+C12,Supplier risk,"Due diligence, contract clauses, access review and exit plan",Improvement required,Medium
+C13,Policies,"Approved, version-controlled policies and periodic review",Partially implemented,Medium
+C14,Awareness,"Induction, refresher and role-based security training records",Needs validation,Medium
+C15,GIGW/accessibility,"Relevant GIGW 3.0 quality, accessibility and lifecycle checks",Needs validation,Medium
